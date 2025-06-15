@@ -40,3 +40,4 @@ $(window).load(function(){
     init();
   
   });
+//complete js with functions
